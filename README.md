@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 최주아</h1>
-<h3 align="center">소프 전공</h3>
+<h3 align="center">소프트웨어 공학 / 디지털콘텐츠 복수 전공</h3>
 
 - 🌱 I’m currently learning **java, html and css**
 
